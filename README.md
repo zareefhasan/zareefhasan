@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zareef. You might recognize me as GitHub's mascot.
+## Hi there 👋 I'm Zareef. You might recognize me as GitHub's mascot.
 
 - 🏃 I’m currently working on [Intlify](https://github.com/orgs/intlify/projects/1) projects and projects within the Vue.js ecosystem
 - 💚 I’m currently working on [nuxt i18n module](https://github.com/nuxt-modules/i18n)
